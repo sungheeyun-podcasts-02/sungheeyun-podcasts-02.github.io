@@ -1,0 +1,340 @@
+[00:00.000 --> 00:01.800]  So here's the thing we're all wrestling with.
+[00:02.300 --> 00:05.340]  How do we get this incredible AI innovation happening,
+[00:05.540 --> 00:09.120]  but without, you know, sacrificing the stuff that makes us human?
+[00:09.520 --> 00:11.120]  Like our privacy, our agency.
+[00:11.420 --> 00:12.760]  It's a real balancing act.
+[00:12.920 --> 00:13.340]  It really is.
+[00:13.380 --> 00:15.980]  It's probably the central design problem we're facing now.
+[00:16.060 --> 00:17.580]  People say data is the new oil, right?
+[00:17.720 --> 00:21.020]  Well, privacy-preserving methods, they're like the filters,
+[00:21.140 --> 00:24.420]  the pipelines you need to make sure that oil doesn't just pollute everything.
+[00:24.600 --> 00:24.800]  Right.
+[00:25.060 --> 00:27.640]  And that brings us to what we're digging into today, KPAI.
+[00:27.640 --> 00:30.220]  Exactly. KPAI.
+[00:30.260 --> 00:33.840]  Which stands for the Silicon Valley Privacy Preserving AI Forum.
+[00:34.200 --> 00:38.880]  And looking at the materials, I mean, this isn't just another conference series, is it?
+[00:39.060 --> 00:39.780]  No, not at all.
+[00:39.860 --> 00:41.620]  It's framed as a pioneering community.
+[00:42.200 --> 00:47.160]  Think professionals actually building these privacy-preserving AI solutions, products, systems.
+[00:47.500 --> 00:51.380]  The whole idea is knowledge sharing, yes, but also high-level networking.
+[00:51.640 --> 00:54.500]  What jumps out, though, is the sheer scope they claim to cover.
+[00:54.780 --> 00:55.580]  It's huge.
+[00:55.600 --> 00:56.340]  It is staggering.
+[00:56.340 --> 00:58.800]  We're not just talking about, like, one security feature.
+[00:58.900 --> 01:03.640]  They're covering biotechnology, healthcare, industrial stuff, even complex things like
+[01:03.640 --> 01:04.820]  multi-agent systems.
+[01:05.160 --> 01:06.960]  And core AI components, too, right?
+[01:07.020 --> 01:09.460]  Like RA implementations, vector databases.
+[01:09.660 --> 01:10.040]  Exactly.
+[01:10.360 --> 01:14.160]  Retrieval augmented generation, vector databases, the nuts and bolts of modern AI.
+[01:14.280 --> 01:14.900]  But hold on.
+[01:14.980 --> 01:17.240]  Isn't that skip, well, almost too wide?
+[01:17.240 --> 01:25.720]  How can they possibly be effective across fields as different as biotech and, you know, core AI architecture like RJ?
+[01:26.220 --> 01:28.760]  That's the tech that helps AI ground its answers, right?
+[01:29.020 --> 01:29.420]  Well, yeah.
+[01:29.520 --> 01:31.480]  RJ helps ground answers in reliable data.
+[01:31.560 --> 01:31.960]  And you're right.
+[01:32.020 --> 01:33.100]  It is incredibly wide.
+[01:33.220 --> 01:34.780]  But I think that's actually part of their mission.
+[01:34.880 --> 01:36.000]  The thinking seems to be.
+[01:36.000 --> 01:47.060]  If privacy issues cut across every single sector, health data, search queries, energy use, then you absolutely need a forum that forces those different sectors to talk, to share solutions.
+[01:47.380 --> 01:47.940]  Ah, okay.
+[01:48.060 --> 01:49.220]  So the breadth is intentional.
+[01:49.220 --> 02:00.840]  So our goal today for you listening is to really unpack KPI's vision, which is pretty ambitious, then look at the strategic alliances they're building, which are quite powerful, and finally, walk through their roadmap.
+[02:01.120 --> 02:04.480]  It's basically a preview of the next couple of years in privacy tech.
+[02:04.660 --> 02:04.800]  All right.
+[02:04.820 --> 02:05.860]  Let's jump into that foundation.
+[02:06.680 --> 02:10.400]  Their vision statement uses this phrase, a harmonious counterpoint.
+[02:11.220 --> 02:11.780]  Sounds lovely.
+[02:12.100 --> 02:12.960]  Very aspirational.
+[02:12.960 --> 02:21.300]  But, you know, in the real world of building massive AI systems, how often does that kind of vision survive the engineering roadmap?
+[02:22.020 --> 02:25.080]  That tension is exactly what they seem to be trying to address head on.
+[02:25.660 --> 02:28.040]  Their vision isn't just about ticking compliance boxes.
+[02:28.280 --> 02:38.600]  It's aiming for a world where AI and human agency aren't fighting, but actually work together to, as they put it, amplify human dignity and protect autonomy.
+[02:39.020 --> 02:41.220]  So setting the bar higher than just regulations?
+[02:41.540 --> 02:42.220]  Much higher, yeah.
+[02:42.220 --> 02:45.340]  They're explicitly trying to push beyond the minimums.
+[02:45.720 --> 02:48.380]  And their mission statement really emphasizes bridging gaps, doesn't it?
+[02:48.400 --> 02:56.060]  It talks about cross-disciplinary collaboration, linking the tech innovation side with legal frameworks and even humanistic principles.
+[02:56.340 --> 02:57.180]  Yes, exactly.
+[02:57.280 --> 02:59.220]  It's this mandatory integration, almost.
+[02:59.480 --> 03:02.920]  Engineering, law, ethics, all needing to work together from the start.
+[03:03.040 --> 03:03.200]  Okay.
+[03:03.300 --> 03:04.980]  So how do they plan to actually do that?
+[03:05.700 --> 03:07.300]  Big vision needs big support.
+[03:07.640 --> 03:07.900]  Right.
+[03:08.080 --> 03:10.180]  And that's where the strategic partnerships come in.
+[03:10.180 --> 03:11.240]  Our sources are clear.
+[03:11.240 --> 03:16.760]  They've set up what they call a perpetual partnership with Cotera Silicon Valley, Cotrea SV.
+[03:17.020 --> 03:17.560]  Cotrea SV.
+[03:17.900 --> 03:18.240]  Okay.
+[03:18.920 --> 03:19.720]  That sounds significant.
+[03:20.060 --> 03:22.540]  A perpetual partnership implies long-term commitment.
+[03:22.700 --> 03:23.460]  It's a major signal.
+[03:23.560 --> 03:23.700]  Yeah.
+[03:23.940 --> 03:25.020]  A strategic alliance.
+[03:25.480 --> 03:26.880]  And it doesn't stop there.
+[03:26.880 --> 03:30.540]  We're seeing plans for more collaborations in the first half of 2026.
+[03:30.540 --> 03:38.020]  Co-hosting forums with Cotrea SV again, and even the Consulate General of the Republic of Korea in San Francisco.
+[03:38.320 --> 03:38.480]  Hmm.
+[03:38.620 --> 03:39.620]  C-Bio X too.
+[03:39.960 --> 03:47.440]  So that connects the AI privacy focus directly with the life sciences and biotech sector, especially with Korean innovation hubs.
+[03:47.440 --> 03:55.440]  This looks less like just sharing knowledge and more like trying to establish kind of joint leadership role, particularly where biotech and privacy crossover.
+[03:55.440 --> 03:56.680]  I think that's exactly right.
+[03:56.800 --> 04:00.780]  It feels like an attempt to shape global standards through actual practice and collaboration.
+[04:01.180 --> 04:04.060]  And look at the very next event, November 12th, 2025.
+[04:04.380 --> 04:04.500]  Okay.
+[04:04.560 --> 04:04.980]  What's that one?
+[04:05.300 --> 04:13.140]  It's called the AI Silicon Race Korea U.S. Innovation Leadership, co-hosted with Kasich at the Korea AI and IC Innovation Center.
+[04:13.480 --> 04:13.860]  Kasich.
+[04:13.860 --> 04:14.780]  Wow.
+[04:15.020 --> 04:22.860]  So that puts KPAI right at the intersection of like global AI policy discussions and actual semiconductor level innovation.
+[04:23.300 --> 04:25.000]  It certainly positions them there.
+[04:25.100 --> 04:27.240]  It's a strong statement about where they see themselves.
+[04:27.440 --> 04:27.580]  Okay.
+[04:27.640 --> 04:29.420]  So that's the strategy in the big picture vision.
+[04:29.960 --> 04:34.340]  Let's look at what this privacy preserving AI actually looks like on the ground.
+[04:35.400 --> 04:37.600]  Their recent forums give us some clues, right?
+[04:38.000 --> 04:40.640]  And they start in some perhaps unexpected places.
+[04:40.760 --> 04:40.840]  Yeah.
+[04:40.940 --> 04:41.620]  Digital marketing.
+[04:41.900 --> 04:42.120]  Yeah.
+[04:42.380 --> 04:43.000]  Energy grids.
+[04:43.000 --> 04:43.400]  Exactly.
+[04:43.760 --> 04:44.920]  Not just server rooms.
+[04:45.260 --> 04:50.020]  Their 12th forum back in October, 2025 was all about marketing intelligence.
+[04:50.440 --> 04:52.920]  Ad intelligence AI revolution in digital marketing.
+[04:53.280 --> 04:56.580]  They had speakers from places like Impact AI Cased and Toss USA.
+[04:56.860 --> 04:58.780]  So how does privacy fit into ad tech?
+[04:58.980 --> 05:00.580]  Isn't that industry built on tracking?
+[05:00.760 --> 05:02.160]  Well, that's the challenge they're tackling.
+[05:02.320 --> 05:08.840]  The idea here is that privacy preserving AI can allow targeted marketing insight without accessing raw individual user data.
+[05:09.000 --> 05:11.220]  Think aggregated analysis, maybe encrypted methods.
+[05:11.220 --> 05:16.180]  Advertisers can still see if campaigns are working generally, but not track your specific clicks or behavior.
+[05:16.680 --> 05:16.700]  Okay.
+[05:16.760 --> 05:17.240]  That makes sense.
+[05:17.620 --> 05:20.940]  And then the month before, September 2025, they tackled energy.
+[05:21.460 --> 05:25.000]  Power paradigm AI-driven solutions for energy's future.
+[05:25.000 --> 05:27.880]  What's the privacy angle with smart grids?
+[05:27.880 --> 05:29.140]  Oh, it's huge.
+[05:29.780 --> 05:33.480]  Smart grids need tons of data for stability, for forecasting demand.
+[05:33.580 --> 05:34.340]  But think about it.
+[05:34.720 --> 05:37.020]  Analyzing your household energy use reveals a lot.
+[05:37.440 --> 05:40.720]  When you're home, what appliances you run, your daily routines.
+[05:40.720 --> 05:42.540]  It's incredibly sensitive.
+[05:43.120 --> 05:45.220]  So how do you balance grid needs with personal privacy?
+[05:45.760 --> 05:51.560]  Well, that forum had speakers from the National Renewable Energy Lab, PG&E, Hanwha Q cells.
+[05:51.860 --> 05:55.040]  They were almost certainly talking about techniques like differential privacy.
+[05:55.240 --> 05:55.920]  Differential privacy.
+[05:56.020 --> 05:57.460]  Okay, let's unpack that quickly for listeners.
+[05:57.680 --> 05:57.800]  Yeah.
+[05:57.840 --> 05:58.560]  How does that work?
+[05:58.660 --> 06:01.940]  How does it protect my energy data but still let the utility run the grid?
+[06:02.260 --> 06:03.300]  Okay, think of it like this.
+[06:03.300 --> 06:07.680]  The utility's AI needs to see overall patterns, right, to predict load.
+[06:08.380 --> 06:12.940]  Differential privacy lets them do that by adding a tiny, carefully controlled amount of noise,
+[06:13.400 --> 06:17.260]  random variations to each individual's data before it's all aggregated together.
+[06:17.460 --> 06:19.800]  So my specific data gets slightly fudged.
+[06:20.080 --> 06:20.560]  Exactly.
+[06:21.140 --> 06:24.980]  Just enough so that the overall statistical picture for the grid is still accurate,
+[06:25.160 --> 06:27.220]  they can still see the trends, make forecasts.
+[06:27.760 --> 06:32.580]  But because of that added noise, no one can look at the final aggregated data
+[06:32.580 --> 06:35.440]  and reliably figure out your specific energy habits.
+[06:35.760 --> 06:38.740]  It protects the individual while still serving the system need.
+[06:39.040 --> 06:39.940]  That's actually pretty clever.
+[06:40.080 --> 06:40.240]  Yeah.
+[06:40.360 --> 06:42.240]  A technical fix for a very human problem.
+[06:42.360 --> 06:42.580]  Yeah.
+[06:42.800 --> 06:45.440]  Okay, so they're looking at data flows outside the home too.
+[06:45.620 --> 06:46.820]  But what about the ethics?
+[06:47.440 --> 06:48.520]  The rules around data?
+[06:48.520 --> 06:49.520]  They covered that too, right?
+[06:49.600 --> 06:51.360]  August 2025 at Stanford.
+[06:51.840 --> 06:54.500]  Yes, that was the human-centric AI revolution.
+[06:54.860 --> 06:57.240]  And that one felt really important because it shifted the focus.
+[06:57.400 --> 06:58.760]  It wasn't just about the tech solutions.
+[06:58.760 --> 07:00.060]  It was about ethical leadership.
+[07:00.060 --> 07:07.280]  They talked specifically about regulatory stuff for engineers, IP rights, data scraping, privacy rules.
+[07:07.580 --> 07:10.140]  So trying to bake the ethics right into the engineering process.
+[07:10.460 --> 07:12.180]  Operationalizing the humanistic vision, yeah.
+[07:12.500 --> 07:16.240]  Telling engineers not just how to code securely, but how to think ethically,
+[07:16.380 --> 07:19.220]  how to build systems that respect boundaries from the get-go.
+[07:19.220 --> 07:24.380]  And tracing this all back, the technical foundation for a lot of this privacy tech,
+[07:24.680 --> 07:27.320]  they established that earlier, right, late 2024.
+[07:27.740 --> 07:30.640]  There were events with Professor Junghee Qian.
+[07:30.960 --> 07:32.100]  Ah, yes, Professor Qian.
+[07:32.440 --> 07:35.800]  Two events focusing on the HE revolution in private AI.
+[07:36.040 --> 07:37.580]  HE homomorphic encryption.
+[07:37.840 --> 07:39.420]  That's the one, homomorphic encryption.
+[07:39.860 --> 07:44.460]  This is really the mathematical powerhouse behind a lot of privacy-preserving AI.
+[07:44.900 --> 07:46.100]  Explain that simply.
+[07:46.200 --> 07:47.100]  What does it let you do?
+[07:47.100 --> 07:50.400]  Okay, imagine you have data locked in a super secure box.
+[07:50.680 --> 07:55.380]  You want someone else to perform a calculation on that data, say, add up numbers inside,
+[07:55.560 --> 07:58.120]  but without ever unlocking the box or seeing the numbers.
+[07:58.240 --> 07:58.980]  Impossible, right?
+[07:59.060 --> 07:59.720]  Not with HE.
+[08:00.160 --> 08:00.960]  That's what it does.
+[08:01.280 --> 08:05.940]  It allows computations, math, analysis directly on data while it stays completely encrypted.
+[08:06.400 --> 08:10.280]  So you could send your encrypted data to a cloud server, have it processed,
+[08:10.660 --> 08:14.820]  and get the encrypted result back, and the server owner never saw your actual information.
+[08:14.820 --> 08:15.300]  Wow.
+[08:15.960 --> 08:17.980]  Okay, so that's a core enabling technology.
+[08:18.120 --> 08:18.440]  Absolutely.
+[08:18.660 --> 08:22.860]  It shows they built this community on a really solid cryptographic foundation before branching
+[08:22.860 --> 08:24.000]  out into all these applications.
+[08:24.700 --> 08:26.280]  Okay, so let's pivot to the future.
+[08:26.580 --> 08:27.940]  Their 2026 roadmap.
+[08:29.080 --> 08:34.240]  Looking at this list, it feels less like just conference topics and more like a prediction,
+[08:34.820 --> 08:38.260]  a map of the next big battlegrounds in privacy tech and policy.
+[08:38.760 --> 08:41.880]  These are the problems the really smart people are already worrying about.
+[08:41.880 --> 08:42.740]  I agree.
+[08:42.860 --> 08:44.020]  It's very forward-looking.
+[08:44.300 --> 08:44.380]  Yeah.
+[08:44.500 --> 08:47.680]  And they kick off 2026 tackling major global issues.
+[08:47.940 --> 08:52.120]  January, digital sovereignty data governance in the age of AI regulations.
+[08:52.480 --> 08:53.100]  Digital sovereignty.
+[08:53.260 --> 08:56.580]  That's all about who controls data, which country's laws apply, right?
+[08:56.860 --> 08:58.240]  Huge international friction point.
+[08:58.500 --> 08:59.020]  Huge.
+[08:59.180 --> 09:04.200]  And then they follow up in June with sovereign clouds, national AI infrastructure, and data
+[09:04.200 --> 09:04.820]  localization.
+[09:05.140 --> 09:06.400]  Ah, so related.
+[09:06.400 --> 09:11.240]  This is the trend where countries say, our citizen-sensitive data, or maybe even the AI
+[09:11.240 --> 09:14.100]  trained on it, has to physically stay inside our borders.
+[09:14.240 --> 09:14.540]  Exactly.
+[09:15.040 --> 09:18.920]  Which forces global companies to completely rethink their cloud architectures.
+[09:19.240 --> 09:22.640]  Data localization is a massive logistical and technical challenge.
+[09:22.840 --> 09:24.560]  Okay, shifting gears to the tech side.
+[09:24.760 --> 09:25.780]  March 2026.
+[09:26.220 --> 09:29.040]  Edge Intelligence Privacy Preserving AI at the Network Periphery.
+[09:29.080 --> 09:29.700]  What's that about?
+[09:29.700 --> 09:35.940]  So this is about AI moving away from giant central data centers and closer to where data
+[09:35.940 --> 09:36.520]  is generated.
+[09:36.840 --> 09:41.660]  Think AI processing happening right on your self-driving car or your wearable medical device.
+[09:41.740 --> 09:42.640]  On the edge of the network.
+[09:42.780 --> 09:43.080]  Right.
+[09:43.480 --> 09:44.360]  Processing locally.
+[09:44.680 --> 09:49.300]  This needs totally new ways to secure and privatize data because you can't always rely
+[09:49.300 --> 09:52.120]  on a constant secure connection back to the cloud.
+[09:52.680 --> 09:55.760]  Privacy needs to be built into the edge device itself.
+[09:55.880 --> 09:56.080]  Okay.
+[09:56.360 --> 09:58.760]  Now the next one on the list, May 2026.
+[09:58.760 --> 10:00.000]  This one really stands out.
+[10:00.100 --> 10:06.720]  The title is Neural Privacy Shields, Brain-Computer Interfaces, and Mental Data Protection.
+[10:07.600 --> 10:08.240]  Let me pause here.
+[10:08.600 --> 10:09.720]  Brain-Computer Interfaces.
+[10:09.780 --> 10:09.940]  Yeah.
+[10:10.180 --> 10:12.500]  This signals a pretty profound shift, doesn't it?
+[10:12.540 --> 10:15.920]  It's moving beyond protecting, say, your browsing history or financial data.
+[10:16.020 --> 10:17.120]  Which is already hard enough.
+[10:17.200 --> 10:17.400]  Right.
+[10:17.580 --> 10:23.360]  But now, with brain-computer interfaces, BCIs becoming more accessible, the data we're talking
+[10:23.360 --> 10:25.860]  about is, well, raw neural activity.
+[10:26.420 --> 10:28.680]  Thoughts, intentions, cognitive states.
+[10:28.760 --> 10:33.160]  How is protecting that different from protecting, say, sensitive health records or even our
+[10:33.160 --> 10:33.820]  genetic code?
+[10:34.100 --> 10:35.760]  Well, think about the nature of the data.
+[10:36.300 --> 10:39.900]  Health records, document conditions, genetics describes potential.
+[10:40.640 --> 10:45.460]  DCI data, potentially, could capture the raw material of thought and intent as it happens.
+[10:46.020 --> 10:50.520]  Our current privacy laws are mostly built around giving consent for specific data uses,
+[10:50.660 --> 10:50.820]  right?
+[10:50.980 --> 10:51.160]  Yeah.
+[10:51.280 --> 10:51.620]  Clicking.
+[10:51.720 --> 10:52.100]  I agree.
+[10:52.100 --> 10:52.700]  Exactly.
+[10:53.240 --> 10:57.360]  But how does consent work when the data stream is potentially reflecting your subconscious
+[10:57.360 --> 10:58.760]  or pre-verbal intentions?
+[10:59.420 --> 11:00.900]  Protecting that level of intimacy?
+[11:01.400 --> 11:05.380]  It requires thinking way ahead, anticipating tech that might decode mental states.
+[11:05.380 --> 11:09.880]  KPAI seems to be pushing into the philosophical defense of the mind itself here.
+[11:10.020 --> 11:10.300]  Wow.
+[11:10.500 --> 11:10.760]  Okay.
+[11:11.400 --> 11:12.960]  That is definitely future forward.
+[11:13.720 --> 11:17.540]  So if that's the ethical frontier, what about the tech needed to verify things securely?
+[11:18.280 --> 11:22.720]  August 2026 is Invisible Guardians Zero Knowledge Proofs in Everyday AI.
+[11:22.960 --> 11:24.680]  Zero Knowledge Proofs or ZKPs?
+[11:24.780 --> 11:24.920]  Yeah.
+[11:24.980 --> 11:28.320]  These are having a massive moment right now, especially in crypto, but the applications are
+[11:28.320 --> 11:28.860]  much broader.
+[11:29.000 --> 11:29.200]  Okay.
+[11:29.340 --> 11:30.120]  Zero Knowledge Proof.
+[11:30.220 --> 11:30.760]  Break that down.
+[11:30.760 --> 11:31.380]  How does it work?
+[11:31.380 --> 11:37.360]  In simple terms, ZKP lets party A prove to party B that a certain statement is true,
+[11:37.840 --> 11:41.820]  but without revealing any other information except that the statement is true.
+[11:42.140 --> 11:42.340]  Hmm.
+[11:42.880 --> 11:45.380]  Give me a practical example in an AI context.
+[11:45.680 --> 11:45.840]  Okay.
+[11:46.100 --> 11:46.800]  Perfect use case.
+[11:47.440 --> 11:48.960]  Automated compliance or auditing.
+[11:49.660 --> 11:55.500]  Imagine an AI system needs to prove to a regulator that it processed, say, 10,000 user records
+[11:55.500 --> 11:57.960]  strictly according to privacy rules like GDPR.
+[11:57.960 --> 12:01.020]  But the regulator can't actually look at the private user records themselves.
+[12:01.160 --> 12:01.460]  Exactly.
+[12:01.740 --> 12:04.120]  ZKP provides the cryptographic magic trick.
+[12:04.540 --> 12:09.320]  The AI can generate a proof that says essentially, yes, I performed the required checks on all
+[12:09.320 --> 12:11.880]  10,000 records and they all passed according to the rules.
+[12:12.220 --> 12:17.020]  The regulator gets mathematical certainty that the process was followed correctly without ever
+[12:17.020 --> 12:18.960]  seeing the underlying sensitive data.
+[12:19.380 --> 12:23.220]  So it builds trust in automated systems without compromising privacy.
+[12:23.580 --> 12:24.080]  Precisely.
+[12:24.380 --> 12:26.900]  It's potentially huge for things like AI auditing.
+[12:26.900 --> 12:32.520]  Okay, looking further out in 2026, they're tackling some really big long-term disruptors.
+[12:33.000 --> 12:37.300]  October is quantum renaissance, post-quantum AI, and the new cryptographic era.
+[12:37.960 --> 12:40.460]  That sounds like preparing for the quantum computing threat.
+[12:40.680 --> 12:41.140]  It is.
+[12:41.660 --> 12:48.300]  Everyone knows that if or perhaps when a powerful enough quantum computer arrives, it could break
+[12:48.300 --> 12:51.160]  much of the encryption we rely on today, the public key stuff.
+[12:51.320 --> 12:52.220]  So they're getting ahead of it.
+[12:52.560 --> 12:53.140]  Seems like it.
+[12:53.140 --> 12:57.540]  They're scheduling this discussion to make sure people building AI systems now are thinking
+[12:57.540 --> 13:00.560]  about the transition to quantum-resistant cryptography.
+[13:01.280 --> 13:07.040]  How do we protect the privacy of data being generated today long into a post-quantum future?
+[13:07.360 --> 13:07.880]  Makes sense.
+[13:08.040 --> 13:13.560]  And then they round out 2026 in November with Mirror World's digital twins, privacy, and
+[13:13.560 --> 13:14.560]  the metaverse of things.
+[13:14.880 --> 13:15.140]  Yeah.
+[13:15.340 --> 13:18.580]  This brings it back to that intersection of physical and digital.
+[13:18.580 --> 13:24.660]  Digital twins are these super detailed virtual replicas of real-world objects, systems,
+[13:24.860 --> 13:25.660]  maybe even people.
+[13:26.060 --> 13:30.900]  Think simulating a jet engine or a whole factory or potentially modeling personal health.
+[13:31.160 --> 13:32.560]  And the privacy challenge there is?
+[13:32.640 --> 13:37.500]  Managing the incredibly detailed, sensitive, real-time data streams needed to make those
+[13:37.500 --> 13:42.500]  digital twins accurate and useful while keeping that data secure and private, especially if
+[13:42.500 --> 13:45.240]  it relates to individuals within that metaverse of things.
+[13:45.660 --> 13:46.640]  Hashtag TED Outro.
+[13:46.640 --> 13:51.340]  So stepping back and looking at this whole KPI picture, the philosophy, the alliances,
+[13:51.840 --> 13:57.180]  this really detailed, forward-looking roadmap for 2026, what's the big takeaway?
+[13:57.600 --> 14:03.360]  I think the clearest message is that privacy-preserving AI isn't some niche add-on anymore.
+[14:03.560 --> 14:04.680]  It's becoming fundamental.
+[14:04.900 --> 14:09.920]  It's the essential infrastructure layer needed for future innovation across the board.
+[14:10.140 --> 14:10.360]  Yeah.
+[14:10.420 --> 14:12.820]  It really feels like the thread connecting everything.
+[14:12.820 --> 14:18.440]  Global policy, energy grids, marketing, biotech, even brain interfaces.
+[14:18.600 --> 14:19.040]  It's everywhere.
+[14:19.640 --> 14:24.840]  So if you listening want to know where the next big AI challenges and solutions are likely
+[14:24.840 --> 14:25.440]  to emerge.
+[14:25.760 --> 14:28.900]  You need to watch these convergence points KPI is highlighting.
+[14:29.100 --> 14:32.380]  Things like AI auditing and compliance, that ZKP stuff we talked about.
+[14:32.380 --> 14:35.380]  And definitely the frontier is like mental data protection.
+[14:35.800 --> 14:39.060]  It really underscores their vision, that phrase about amplifying human dignity.
+[14:39.300 --> 14:44.220]  It's just that scaling AI successfully really depends on cracking this privacy puzzle in a
+[14:44.220 --> 14:45.260]  way that people can trust.
+[14:45.420 --> 14:45.780]  Absolutely.
+[14:45.940 --> 14:47.880]  But there's an interesting tension there, isn't there?
+[14:47.920 --> 14:48.340]  How so?
+[14:48.540 --> 14:51.020]  Well, look at their September 2026 topic.
+[14:51.720 --> 14:55.120]  The Verification Valley AI Auditing and Compliance Automation.
+[14:55.440 --> 14:57.680]  That focus on automation, on technical verification.
+[14:57.680 --> 15:02.120]  It raises a question, a final thought maybe for you to ponder as you watch this all unfold.
+[15:02.940 --> 15:08.440]  Will the future standard for AI really be driven by that high-minded, humanistic leadership
+[15:08.440 --> 15:09.800]  KTII talks about?
+[15:10.220 --> 15:16.040]  Or will the sheer speed and complexity of deploying AI mean that, in practice, we end up settling
+[15:16.040 --> 15:20.480]  for purely technical compliance, automated audits that tick the boxes but maybe miss the
+[15:20.480 --> 15:20.760]  spirit?
+[15:20.960 --> 15:24.260]  The vision versus the practical reality of automated systems.
+[15:24.260 --> 15:24.660]  Exactly.
+[15:25.000 --> 15:29.880]  That ongoing battle between the aspirational goal of human dignity and the pragmatic need
+[15:29.880 --> 15:34.020]  for scalable technical verification that feels like the real story to watch over the next
+[15:34.020 --> 15:34.360]  decade.
